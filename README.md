@@ -1,7 +1,7 @@
 # 🛒 CyberDevelopers — E-commerce Platform
 
 <p align="center">
-  <img src="images/social-preview.png"
+  <img src="projectImage.png"
        alt="CyberDevelopers E-commerce Platform"
        width="900">
 </p>
