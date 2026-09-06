@@ -1,6 +1,5 @@
-#  CyberDevelopers — E-commerce Platform 🛒
-## Semester 5 Team Project
-### Advance Software Engineering
+#  CyberDevelopers — E-Commerce Platform 🛒
+## Semester 5 Team Project- Advance Software Engineering
 
 
 
